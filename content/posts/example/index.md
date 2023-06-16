@@ -6,13 +6,11 @@ pinned = false
 tags = ["Anglikanismus"]
 image = ""
 description = ""
-footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
+footnotes = ""
 +++
 {{<lead>}}
 In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen.
 {{</lead>}}
-
-Tipp: Um diesen Blogartikel zu behalten, ohne ihn zu löschen, kann man den **Entwurfsmodus** einschalten.
 
 # Überschrift 1
 
