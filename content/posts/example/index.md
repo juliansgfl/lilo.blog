@@ -1,7 +1,7 @@
 +++
 title = "Anglikanische Kirche"
 date = "2023-05-17"
-draft = true
+draft = false
 pinned = false
 tags = ["Anglikanismus"]
 image = ""
