@@ -4,7 +4,7 @@ date = "2023-05-17"
 draft = false
 pinned = true
 tags = ["Anglikanismus", "Kirche", "St.Ursula", "Reportage"]
-image = "https://stursula.files.wordpress.com/2006/06/stu_spring2.jpg"
+image = "stu_spring2.jpg"
 description = "Die St. Ursula Kirche ist eine kleine anglikanische Kirche direkt neben dem Gymnasium Kirchenfeld.  Doch was ist eigentlich Anglikanismus und wie tickt das Leben in dieser Kirche?"
 footnotes = ""
 +++
