@@ -1,6 +1,6 @@
 +++
 title = "Englisch – oder vielleicht auch nicht"
-date = "2023-05-17"
+date = "2023-06-17"
 draft = false
 pinned = true
 tags = ["Anglikanismus", "Kirche", "St.Ursula", "Reportage"]
@@ -84,7 +84,9 @@ Die dynamische Gemeinschaft und die Entfernung zu anderen Anglikanischen Kirchen
 
 Die Gesellschaft der Kirche ist nicht nur dynamisch, sondern auch sehr engagiert und äusserst hilfsbereit. All das, worum man sich innerhalb der Gesellschaft und der Kirche kümmern muss, wie zum Beispiel die Aufbewahrung des Gebäudes, den Garten, die Musik und auch den finanziellen Zustand der Kirche, wird mithilfe jedes Mitgliedes der Gemeinschaft erledigt. Jeder und jeder hilft, wo er oder sie kann, um der Kirche zu helfen; wenn man ein guter Gärtner ist, hilft man, indem man sich um den Garten kümmert. Wenn man sich in Handarbeit und Reparaturen versteht, hilft man der Kirche, indem man für den Unterhalt des Gebäudes sorgt. Sogar die Musik, die an Gottesdiensten gespielt wird, wird von talentierten Mitgliedern der Kirche gespielt. Diese Hilfsbereitschaft der Gemeinschaft macht die Atmosphäre angenehmer und stärkt den Zusammenhalt und die Freundschaft zwischen den Leuten. Es fühlt sich an, als wäre man unter guten Kollegen oder Freunden, denen man Vertrauen schenken kann.
 
-{{<box>==collapsible}}
+{{<box>}}
+
+## Quellen
 
 ![http://anglicansonline.org/](_http_anglicansonline_org_.png)
 
