@@ -18,7 +18,9 @@ Die Integration einer englischen Kirche in Bern und ihr christlicher Weg
 
 ![Die St Ursula Kirche ](untitled-picture.jpg "St Ursula")
 
-{{<box>}}
+{{</box>}}
+
+
 
 ## Eine ganz gewöhnliche Kirche – und doch anders
 
@@ -54,7 +56,9 @@ Die Kirche der St. Ursula wurde 1906 erbaut, unter der Sponsorschaft einer ameri
 
 Ihren Namen hat die Kirche der heiligen Ursula zu verdanken. Sie war eine Britische Prinzessin, die in Begleitung von 11'000 Jungfrauen nach Rom gepilgert ist. Bei ihrer Rückkehr wurden sie in Köln ermordet.
 
-{{<box>}}
+{{</box>}}
+
+
 
 ## Unter fremden Freunden
 
@@ -88,4 +92,4 @@ Die Gesellschaft der Kirche ist nicht nur dynamisch, sondern auch sehr engagiert
 
 ![https://stursula.files.wordpress.com/2006/06/stu_spring2.jpg](https_stursula_files_wordpress_com_2006_06_stu_spring2_jpg.png)
 
-{{<box>}}
+{{</box>}}
