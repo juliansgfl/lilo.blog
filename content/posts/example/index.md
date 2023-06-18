@@ -62,9 +62,7 @@ Diese drei Arten des Anglikanismus' stützen sich gegenseitig wie Stuhlbeine ein
 
 Die Kirche der St. Ursula wurde 1906 erbaut, gesponsert von einer amerikanischen Frau aus St. Louis, Missouri. Zum Dank für die Erholung ihrer Tochter hat sie der Stadt Bern Geld gespendet. 1959 wurden der Kirche weitere Gebäude angefügt und 1992 wurde sie wieder vergrössert, dank einer Spende des Kantons. (Quelle: [www.stursula.ch](http://www.stursula.ch))
 
- 
-
-Ihren Namen hat die Kirche der heiligen Ursula zu verdanken. Sie war eine Britische Prinzessin, die in Begleitung von 11'000 Jungfrauen nach Rom gepilgert sein soll. Bei ihrer Rückkehr sollen sie in Köln einem Überfall der Hunnen zum Opfer fallen und ermordet worden sein.
+ Ihren Namen hat die Kirche der heiligen Ursula zu verdanken. Sie war eine Britische Prinzessin, die in Begleitung von 11'000 Jungfrauen nach Rom gepilgert sein soll. Bei ihrer Rückkehr sollen sie in Köln einem Überfall der Hunnen zum Opfer fallen und ermordet worden sein.
 
 {{</box>}}
 
