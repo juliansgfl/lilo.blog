@@ -48,9 +48,7 @@ Solche religiösen Änderungen kamen noch einige Male vor: Als Henrys Thronfolge
 
 Heute lebt die anglikanische Kirche immer noch den Glauben zwischen dem protestantischen und dem katholischen Weg. Ein Anglikaner kann sich auch zwischen drei anderen Wegen entscheiden: der anglo-katholischen, der protestantischen und der liberalen Kirche. Die anglo-katholische Kirche folgt den Traditionen der katholischen Kirche. Die protestantische Kirche befasst sich mehr mit dem theologischen Verständnis der Heiligen Schrift. Sie folgt den Vorstellungen von Johannes Calvin und Martin Luther. Die liberale Kirche hingegen legt weniger Wert auf die Interpretation der Bibel oder den Traditionen des Katholizismus'. Stattdessen beschäftigt sie sich mit dem Menschen und der Gesellschaft. Sie zeigt Menschen ausserhalb der Kirche eine christliche Lebensweise, indem sie sich mit aktuellen Problemen unserer Welt befasst und sich neues wissenschaftliches Wissen aneignet.
 
-> Diese drei Arten des Anglikanismus' stützen sich gegenseitig wie Stuhlbeine einen dreibeinigen Hocker. Die anglikanische Kirche ist ein Gleichgewicht zwischen diesen drei Säulen und kippt, sobald eine Stütze weggenommen wird.
->
-> \-David Marshall: Introduction to Anglicanism
+Diese drei Arten des Anglikanismus' stützen sich gegenseitig wie Stuhlbeine einen dreibeinigen Hocker. Die anglikanische Kirche ist ein Gleichgewicht zwischen diesen drei Säulen und kippt, sobald eine Stütze weggenommen wird. (David Marshall: Introduction to Anglicanism)
 
 {{<box>}}
 
