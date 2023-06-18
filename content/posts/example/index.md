@@ -1,6 +1,6 @@
 +++
 title = "Englisch – oder vielleicht auch nicht"
-date = "2023-06-17"
+date = "2023-06-18"
 draft = false
 pinned = true
 tags = ["Anglikanismus", "Kirche", "St.Ursula", "Reportage"]
